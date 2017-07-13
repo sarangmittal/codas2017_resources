@@ -1,0 +1,46 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.om
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+t1
+t1-mic
+t2
+t2-mic
+t3
+t3-mic
+t4
+t4-mic
+
+# Dependencies
+*.d
+
+# Auto generated code, included in source ...
+*.ah
+
+# Result files
+*.rt
+
+# ... and a make touch file for target that generates matriplex related ones.
+matriplex-auto
+
+# mkFit
+mkFit/mkFit
+mkFit/mkFit-mic
